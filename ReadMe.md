@@ -4,9 +4,7 @@ Begginer Python, C, Java and SQL Devloper<br>
 I'm a College UG student working on basic python & C coding.<br>
 
 🌍  I'm based in India, National Institute Of Technology Delhi<br>
-
 ✉️  You can contact me at saahil992000@gmail.com<br>
-
 🧠  I'm learning Machine Learning & Data Sciences
 
 
